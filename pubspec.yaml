@@ -17,7 +17,7 @@ dependencies:
   video_thumbnail:
     git:
       url: https://github.com/justsoft/video_thumbnail.git
-      ref: 6c353ef859b2c44936e7179f9859bdf075ce9cac
+      ref: 8d30c8f373f9e39fd932cc9a29891e7a17800e93
   file_picker: ^8.1.5
   collection: ^1.18.0
   camera: ^0.11.0+2
